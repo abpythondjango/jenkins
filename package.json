@@ -1,0 +1,25 @@
+{
+  "name": "jenkins",
+  "version": "1.0.0",
+  "description": "Setting up Git for Jenkins integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/abpythondjango/jenkins.git"
+  },
+  "keywords": [
+    "jenkins"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abpythondjango/jenkins/issues"
+  },
+  "homepage": "https://github.com/abpythondjango/jenkins#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
